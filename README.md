@@ -1,1 +1,1 @@
-# My Solution to AdventOfCode
+# My Solutions to AdventOfCode
